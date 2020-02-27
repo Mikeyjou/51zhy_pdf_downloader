@@ -4,6 +4,6 @@
 
 
 使用方法:
-將JS下載下來的key.json、authorize.json檔放在跟py檔同一資料夾
+照medium文章將專案上JS放上chrome，在書本頁面重新整理下載JSON檔，將JS下載下來的key.json、authorize.json檔放在跟py檔同一資料夾
 直接python3 51zhy.py即可
 腳本很簡單並且防呆也沒有做得很好，如果出現解密錯誤通常是授權過期，需要重新去網頁上下載json檔案
